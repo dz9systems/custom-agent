@@ -7,3 +7,5 @@
 
 ### Run Script
 ```python main.py```
+
+`inline code`
